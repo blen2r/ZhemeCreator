@@ -1,0 +1,4 @@
+imagemagick
+edje-utils
+libedje-bin
+python-tk
